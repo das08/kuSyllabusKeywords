@@ -1,0 +1,6 @@
+/.env
+/jpn_plain_extracted.txt
+/syllabus/
+/.idea/
+/.DS_Store
+/__pycache__/

@@ -1,0 +1,2 @@
+# kuSyllabusKeywords
+シラバスからキーワードを抽出し、mongoDBに登録します
